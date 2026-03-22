@@ -1,6 +1,7 @@
-## Welcome to my Github
+<img width="5024" height="832" alt="Gemini_Generated_Image_eo06fdeo06fdeo06" src="https://github.com/user-attachments/assets/9860b9b3-d214-4d47-8a92-82786e72403a" />
 
-I am a **FinTech & DevOps Professional** specializing in the intersection of financial systems and cloud-native infrastructure. Currently pursuing an M.S. in Financial Technology & Analytics, I focus on engineering secure, automated pipelines and scalable cloud environments.
+
+I am a **FinTech & DevOps Professional** specializing in the intersection of financial systems and cloud-native infrastructure. I focus on engineering secure, automated pipelines and scalable cloud environments.
 
 ---
 

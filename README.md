@@ -34,8 +34,3 @@ I am a **FinTech & DevOps Professional** specializing in the intersection of fin
 *   **Personal Brand:** The Drager Advantage
 
 ---
-
-### 📊 GitHub Activity
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragerzw&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragerzw&layout=compact&theme=radical)

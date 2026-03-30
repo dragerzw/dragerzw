@@ -23,7 +23,7 @@ I am a **FinTech & DevOps Professional** specializing in the intersection of fin
 ### 📜 Certifications & Credentials
 
 *   **CKA:** Certified Kubernetes Administrator
-*   **CPA & CGMA:** Chartered Global Management Accountant
+*   **CGMA:** Chartered Global Management Accountant
 *   **CSM:** Certified Scrum Master
 *   **AWS:** Certified Cloud Practitioner
 *   **Google:** Professional Cybersecurity Certificate
